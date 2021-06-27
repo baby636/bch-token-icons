@@ -39,6 +39,6 @@
     "alpha-sort": "^2.0.1",
     "coinlist": "^3.0.0",
     "globby-cli": "^1.0.1",
-    "svgo": "^1.2.0"
+    "svgo": "^2.3.1"
   }
 }
