@@ -36,7 +36,7 @@
     "clean": "svgo --multipass --disable=removeViewBox $(globby {svg,originals}/**/*.svg)"
   },
   "devDependencies": {
-    "alpha-sort": "^2.0.1",
+    "alpha-sort": "^5.0.0",
     "coinlist": "^3.0.0",
     "globby-cli": "^1.0.1",
     "svgo": "^1.2.0"
